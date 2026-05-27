@@ -5,55 +5,73 @@ Quillora is a modern AI-powered blogging platform that allows users to create, e
 🌐 Live Demo
 
 👉 Frontend: https://quillora-pearl.vercel.app
+
 👉 Backend:https://quillora-server.vercel.app
 
 ✨ Features
-📝 Create, edit, and delete blogs
-🤖 AI-assisted blog writing (Gemini AI)
-🔐 User authentication system
-💬 Comment system
-📂 Blog categories support
-📱 Fully responsive UI
-⚡ Fast performance with Vercel deployment
+
+-📝 Create, edit, and delete blogs
+
+-🤖 AI-assisted blog writing (Gemini AI)
+
+-🔐 User authentication system
+
+-💬 Comment system
+
+-📂 Blog categories support
+
+-📱 Fully responsive UI
+
+-⚡ Fast performance with Vercel deployment
+
 🛠️ Tech Stack
 
 Frontend:
 
-React.js
-Tailwind CSS
-Axios
+-React.js
+
+-Tailwind CSS
+
+-Axios
 
 Backend:
 
-Node.js
+-Node.js
+
 Express.js
-MongoDB Atlas
-Mongoose
+
+-MongoDB Atlas
+
+-Mongoose
+
+-RESTful API
 
 AI Integration:
 
-Gemini API
+-Gemini API
 
 Deployment:
 
-Vercel
-⚙️ Environment Variables
-
+-Vercel
 
 🔐 Security Note
-.env files are not pushed to GitHub
-API keys are securely stored using environment variables
+
+-.env files are not pushed to GitHub
+
+-API keys are securely stored using environment variables
 
 📈 Future Improvements
-AI blog image generation
-Social sharing features
-Like & bookmark system
-SEO optimization for blogs
+
+-AI blog image generation
+
+-Social sharing features
+
+-Like & bookmark system
+
+-SEO optimization for blogs
 
 
 👩‍💻 Author
+
 Sweta Singh
 
-
-
-Just tell 👍
