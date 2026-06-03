@@ -1,18 +1,8 @@
-Here's your README with emojis and Vercel deployment links added:
+A MERN-stack blogging platform integrated with Gemini AI for assisted writing.
 
-```markdown
-# 🤖 Quillora
+(![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-> ✨ A MERN-stack blogging platform integrated with Gemini AI for assisted writing.
 
-![GitHub stars](https://img.shields.io/github/stars/swetasingh08/Quillora?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/swetasingh08/Quillora?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/swetasingh08/Quillora?style=for-the-badge&logo=github) ![Last commit](https://img.shields.io/github/last-commit/swetasingh08/Quillora?style=for-the-badge&logo=github) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-## 🌐 Live Demo
-
-| Environment | URL |
-|-------------|-----|
-| 🖥️ **Frontend** | [https://quillora-client.vercel.app](https://quillora-client.vercel.app) |
-| 🚂 **Backend API** | [https://quillora-server.vercel.app](https://quillora-server.vercel.app) |
 
 ## 📑 Table of Contents
 
@@ -29,6 +19,13 @@ Here's your README with emojis and Vercel deployment links added:
 - [🛠️ Development Setup](#️-development-setup)
 - [🚢 Deployment](#-deployment)
 - [👥 Contributing](#-contributing)
+
+## 🌐 Live Deployment
+
+| Environment | URL |
+|-------------|-----|
+| 🖥️ **Frontend** | https://quillora-client.vercel.app |
+| 🚂 **Backend API** | https://quillora-server.vercel.app |
 
 ## 📝 Description
 
