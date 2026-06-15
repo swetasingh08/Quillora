@@ -18,8 +18,8 @@ const blogRouter = express.Router();
 // Add blog
 blogRouter.post(
   "/add",
-  upload.single('image'),
   auth,
+  upload.single('image'),
   addBlog
 );
 
